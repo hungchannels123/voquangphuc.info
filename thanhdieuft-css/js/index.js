@@ -55,7 +55,7 @@ function onCreate() {
   }
   function Tiktok() {
 	setTimeout(function() {
-	  window.open('https://tiktok.com/@vo_qphuc.1101', 'ultimate')},
+	  window.open('https://www.tiktok.com/@vo_qphuc.1101', 'ultimate')},
 	100);
   }
   function Telegram() {
