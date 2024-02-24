@@ -1,6 +1,6 @@
 console.log('%c- https://phungphihung.ddns.net', 'color: #444; font-size: 25px; font-family: sans-serif;');
 console.log('%c- https://kichhoat.ddns.net', 'color: #444; font-size: 25px; font-family: sans-serif;');
-console.log('%c- https://archive.phungphihung.repl.co', 'color: #444; font-size: 25px; font-family: sans-serif;');
+console.log('%c- https://www.facebook.com/hungchannels.tv', 'color: #444; font-size: 25px; font-family: sans-serif;');
 function star() {
     setTimeout(function () {
     }, 3000);
